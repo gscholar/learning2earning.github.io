@@ -1,4 +1,2 @@
-# learning2earning.github.io
-
-
+# learning2earning.github.ioStart    
 First repo built for Stephen. Yay!
